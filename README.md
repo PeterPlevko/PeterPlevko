@@ -14,5 +14,6 @@
 <br/>
 Currently studying at FIIT STU.
 <br/>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPlevko&count_private=true&show_icons=true&theme=dark)
 
