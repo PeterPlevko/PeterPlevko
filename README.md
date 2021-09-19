@@ -11,7 +11,7 @@
   <img align="left" alt="Linkedin" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/spotify.svg" />
 </a>
 <a href="https://www.instagram.com/kuntox/">
-  <img align="left" alt="Instagram" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/instagram.svg" />
+  <img align="left" alt="Instagram" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/penis.svg" />
 </a>
 <a href="https://peterplevko.github.io/">website</a>
 <br/>
