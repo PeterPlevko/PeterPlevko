@@ -19,6 +19,6 @@ Currently studying at FIIT STU.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPlevko&count_private=true&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPlevko&hide=Rich Text Format,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PeterPlevko&hide=Rich%20Text%20Format,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
