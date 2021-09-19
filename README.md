@@ -13,6 +13,9 @@
 <a href="https://www.instagram.com/kuntox/">
   <img align="left" alt="Instagram" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/instagram-color.svg" />
 </a>
+<a href="https://www.reddit.com/user/kuntox">
+  <img align="left" alt="Reddit" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/reddit.svg" />
+</a>
 <a href="https://peterplevko.github.io/">website</a>
 <br/>
 <br/>
