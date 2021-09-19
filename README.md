@@ -2,7 +2,7 @@
   <img align="left" alt="Twitter" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/peterplevkoo">
-  <img align="left" alt="Facebook" width="25px" height= "30px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/facebook.svg" />
+  <img align="left" alt="Facebook" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/facebook.svg" />
 </a>
 <a href="https://www.linkedin.com/in/peter-plevko-0247a919b/">
   <img align="left" alt="Linkedin" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/linkedin.svg" />
