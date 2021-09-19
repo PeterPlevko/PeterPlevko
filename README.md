@@ -10,7 +10,7 @@
 <a href="https://open.spotify.com/user/21puq55gkyw4rtwn2fanriody">
   <img align="left" alt="Linkedin" width="25px" height= "25px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/spotify.svg" />
 </a>  
-
+  
 Currently studying at FIIT STU.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PeterPlevko&count_private=true&show_icons=true&theme=dark)
