@@ -1,5 +1,5 @@
 <a href="https://twitter.com/PeterPlevko">
-  <img align="left" alt="Twitter" width="22px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/twitter.png" />
+  <img align="left" alt="Twitter" width="22px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/peterplevkoo">
   <img align="left" alt="Facebook" width="22px" src="https://github.com/PeterPlevko/PeterPlevko/blob/main/images/facebook.png" />
