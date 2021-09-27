@@ -14,11 +14,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/peter-plevko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="peter-plevko" height="30" width="40" /></a>
-<a href="https://dev.to/peterplevko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="peterplevko" height="30" width="40" /></a>
 <a href="https://twitter.com/peterplevko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterplevko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peter-plevko-0247a919b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-plevko-0247a919b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12235082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12235082" height="30" width="40" /></a>
-<a href="https://codesandbox.com/pplevko" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="pplevko" height="30" width="40" /></a>
 <a href="https://fb.com/peterplevkoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peterplevkoo" height="30" width="40" /></a>
 <a href="https://instagram.com/kuntox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuntox" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/ucevrvwod-55zlchovyizwfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucevrvwod-55zlchovyizwfg" height="30" width="40" /></a>
