@@ -29,7 +29,7 @@
 <p><a href="https://www.buymeacoffee.com/kuntox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kuntox" /></a></p><br><br>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterplevko&show_icons=true&locale=en&layout=compact&theme=dark&hide=Rich%20Text%20Format" alt="peterplevko" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterplevko&show_icons=true&locale=en&layout=compact&theme=dark&hide=Rich%20Text%20Format&langs_count=10" alt="peterplevko" /></p>
 <br />
 <br />
 <br />
