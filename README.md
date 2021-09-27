@@ -37,6 +37,8 @@
 <br />
 <br />
 <br />
+<br />
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterplevko&show_icons=true&locale=en&theme=dark" alt="peterplevko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterplevko&theme=dark" alt="peterplevko" /></p>
