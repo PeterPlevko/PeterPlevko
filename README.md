@@ -59,4 +59,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=peterplevko&show_icons=true&locale=en&theme=dark" alt="peterplevko" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterplevko&theme=dark" alt="peterplevko" /></p>
+
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=UPXEBS6QE7J3N)
