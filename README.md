@@ -5,20 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=peterplevko" alt="peterplevko" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/peterplevko" target="blank"><img src="https://img.shields.io/twitter/follow/peterplevko?logo=twitter&style=for-the-badge" alt="peterplevko" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://peterplevko.github.io/](https://peterplevko.github.io/)
 
 - 📫 How to reach me **pplevko@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/peterplevko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="peterplevko" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/peter-plevko-0247a919b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-plevko-0247a919b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12235082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12235082" height="30" width="40" /></a>
 <a href="https://fb.com/peterplevkoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peterplevkoo" height="30" width="40" /></a>
-<a href="https://instagram.com/kuntox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuntox" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCEvrvwOd-55zLCHOVYizwFg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucevrvwod-55zlchovyizwfg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
