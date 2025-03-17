@@ -14,6 +14,7 @@
 <a href="https://linkedin.com/in/peter-plevko-0247a919b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="peter-plevko-0247a919b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12235082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="12235082" height="30" width="40" /></a>
 <a href="https://fb.com/peterplevkoo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="peterplevkoo" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/pplevko/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="peterplevkoo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,7 +54,5 @@
 <br />
 <br />
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterplevko&show_icons=true&locale=en&theme=dark" alt="peterplevko" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=peterplevko&theme=dark" alt="peterplevko" /></p>
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=UPXEBS6QE7J3N)
