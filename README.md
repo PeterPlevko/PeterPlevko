@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterplevko&label=Profile%20views&color=0e75b6&style=flat" alt="peterplevko" /> </p>
 
+<!-- <p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=peterplevko" alt="peterplevko" />
+  </a>
+</p> -->
+
 - 👨‍💻 All of my projects are available at [https://peterplevko.github.io/](https://peterplevko.github.io/)
 
 - 📫 How to reach me **pplevko@gmail.com**
@@ -40,7 +46,7 @@
 <p><a href="https://www.buymeacoffee.com/kuntox"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kuntox" /></a></p><br><br>
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterplevko&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook,Rich%20Text%20Format,HTML,c%2B%2B,C,Mathematica&langs_count=10" alt="peterplevko" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=peterplevko&show_icons=true&locale=en&layout=compact&theme=dark&hide=Jupyter%20Notebook,Rich%20Text%20Format,HTML,c%2B%2B,C,Mathematica&langs_count=10" alt="peterplevko" /></p>
 <br />
 <br />
 <br />
@@ -51,6 +57,6 @@
 <br />
 <br />
 <br />
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterplevko&show_icons=true&locale=en&theme=dark" alt="peterplevko" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=peterplevko&show_icons=true&locale=en&theme=dark" alt="peterplevko" /></p> -->
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=UPXEBS6QE7J3N)
