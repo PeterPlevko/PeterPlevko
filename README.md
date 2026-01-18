@@ -5,7 +5,7 @@
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=PeterPlevko" alt="peterplevko" />
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=peterplevko" alt="peterplevko" />
   </a>
 </p>
 
