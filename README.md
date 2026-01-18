@@ -3,12 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterplevko&label=Profile%20views&color=0e75b6&style=flat" alt="peterplevko" /> </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=peterplevko&v=1" alt="peterplevko" />
-  </a>
-</p>
-
 - 👨‍💻 All of my projects are available at [https://peterplevko.github.io/](https://peterplevko.github.io/)
 
 - 📫 How to reach me **pplevko@gmail.com**
