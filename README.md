@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=peterplevko&label=Profile%20views&color=0e75b6&style=flat" alt="peterplevko" /> </p>
 
 <p align="left">
-  <a href="https://github.com/peterplevko">
-    <img src="https://github-profile-trophy-kgo2uje2t-peter-plevkos-projects.vercel.app/?username=peterplevko" alt="peterplevko" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=PeterPlevko" alt="peterplevko" />
   </a>
 </p>
 
